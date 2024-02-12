@@ -1,0 +1,15 @@
+{
+  "name": "augmented_pc",
+  "version": "1.0.0",
+  "description": "This project I am on a journey to enhance my PC This PC begins with three Phases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.2"
+  }
+}
