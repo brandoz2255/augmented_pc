@@ -1,0 +1,6 @@
+
+# ignore the lib folder
+lib/
+
+# ignore node modules
+node_modules/
