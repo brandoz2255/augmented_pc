@@ -9,3 +9,13 @@ This project I am on a journey to enhance my PC This PC begins with three Phases
 	- Listen to me in a siri manner I use linux so I wanted this to be a linux's version of siri/Cortana 
 	- Will do task's handling schedule stuff etc 
 - **`Phase Three`**: Machine Learning :: This will give my computer machine learning to enhance my PC experience will randomly give me advice or recommend based on behaviors what I should do 
+
+
+## Requirements 
+- here are some requirements to run this project 
+
+### Python Libraries 
+
+### JavaScript Libraries
+
+### CSS Framework
