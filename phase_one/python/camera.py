@@ -89,11 +89,15 @@ def analyzeVideo():
                 break
             # Perform image preprocessing and analysis here
             # For example, you can use OpenCV functions to detect objects or perform image processing
+            # here is the converts the frame to grayscale 
+            gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
             # Display the analyzed result in the bottom right corner of the camera window
             cv2.putText(frame, "Analyzing...", (10, frame.shape[0] - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
             cv2.imshow("Camera", frame)
             if cv2.waitKey(1) & 0xFF == ord('q'):
                 break
+            
         camera.release()
         cv2.destroyAllWindows()
     except Exception as e:
