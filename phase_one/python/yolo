@@ -1,1 +1,6 @@
 /home/pandulce/.cache/pip/wheels/3e/11/2f/84143336f3368a00ba3c7261850dbf6df9764287adb9f1d564
+
+requirements the project needs 
+tensorflow 
+keras 
+YOLOv4 
