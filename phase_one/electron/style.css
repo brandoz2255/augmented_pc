@@ -1,0 +1,22 @@
+/* style.css */
+
+/* Override Arwes theme colors */
+:root {
+    --color-primary: #ff00ff; /* Cyberpunk pink */
+    --color-secondary: #00ff00; /* Cyberpunk green */
+    --color-background: #000000; /* Cyberpunk black */
+    --color-header-background: #111111; /* Dark header background */
+    --color-header-border: #444444; /* Dark header border */
+}
+
+/* Customize fonts */
+body {
+    font-family: 'Roboto', sans-serif; /* Cyberpunk-style font */
+}
+
+/* Custom styles for specific elements */
+h1 {
+    color: #ff00ff; /* Cyberpunk pink */
+}
+
+/* Add your additional custom styles here */

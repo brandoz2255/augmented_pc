@@ -5,6 +5,8 @@ function createWindow() {
   const win = new BrowserWindow({
     width: 800,
     height: 600,
+    offscreen: true, // Enable offscreen rendering
+    contextIsolation: false, // Disable context isolation (not recommended for security)
     webPreferences: {
       nodeIntegration: true
     }
