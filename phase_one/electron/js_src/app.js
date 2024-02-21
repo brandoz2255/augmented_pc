@@ -1,4 +1,4 @@
-import React from 'react';
+/* import React from 'react';
 import { ThemeProvider, createTheme, Frame, Button } from '@arwes/arwes';
 
 const App = () => {
@@ -15,3 +15,4 @@ const App = () => {
 };
 
 export default App;
+ */

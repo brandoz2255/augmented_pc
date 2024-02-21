@@ -4,3 +4,7 @@ lib/
 
 # ignore node modules
 node_modules/
+
+# ignore the python envirement 
+augmented_pc/phase_one/python/venv/
+

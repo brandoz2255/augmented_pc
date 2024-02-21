@@ -95,8 +95,8 @@
 .button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #333;
-    color: #fff;
+    background-color: #1791e8;
+    color: #ffffff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -144,3 +144,8 @@ h1 {
 }
 
 /* Add your additional custom styles here */
+
+body {
+  background-color: #2b006b; /* Dark purple */
+}
+
